@@ -16,6 +16,18 @@
  - [výměna senzoru teploty a vlhkosti](./Dokumentace/replacements/dht_sensor.md)
  - [výměna displeje](./Dokumentace/replacements/display.md)
  - [výměna relé](./Dokumentace/replacements/relay.md)
+ - [výměna tlačítka na přídavném modulu](./Dokumentace/replacements/button.md)
  - [výměna pojistky na silnoproudové části](./Dokumentace/replacements/fuse.md)
  - [výměna konektorů silnoporudové části](./Dokumentace/replacements/connectors.md)
 
+
+
+# TODO:
+ - connectors - poslední část
+ - button
+ - ESP
+ - fuse
+ - relay
+ - connecting modules
+ - printed parts
+ - inicial setup

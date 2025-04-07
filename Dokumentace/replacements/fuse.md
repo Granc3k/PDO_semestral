@@ -1,4 +1,5 @@
 # Výměna silnoproud pojistky
+TODO - fotky
 
 - Vypněte zařízení a odpojte z něj přívod elektřiny.
 
@@ -6,4 +7,6 @@
 
 - Vyjměte pojistku.
 
-- Pro úplné složení zpět postupujte obrácenými kroky nazpět.
+- Pro složení zpět obraťte postup.
+
+[Zpět na hlavní stránku](./../../README.md)
