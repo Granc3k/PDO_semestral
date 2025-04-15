@@ -1,15 +1,10 @@
 # Dokumentace Bakalářské práce
 
-## koncepce vypracování:
- - video tutoriály s odkazy na ytb, případně pdf s podrobnou fotodokumentací
- - bude se zde zobrazovat podrobná dokumentace tištěných součástek, iniciální spuštění, výměna součástek
-
-
-
- ## Body:
- - [podrobná dokumentace tištěných součástek](./Dokumentace/printed_parts.md)
+## Základní operace:
  - [inicální spuštění](./Dokumentace/inicial_setup.md)
  - [postup na přidávání přídavných modulů](./Dokumentace/connecting_modules.md)
+
+ ## Výměny dílů:
  - [výměna ESP32](./Dokumentace/replacements/ESP.md)
  - [výměna senzoru pro měření napětí](./Dokumentace/replacements/voltage_sensor.md)
  - [výměna senzoru pro měření proudu](./Dokumentace/replacements/current_sensor.md)
@@ -23,11 +18,11 @@
 
 
 # TODO:
- - connectors - poslední část
- - button
- - ESP
- - fuse
- - relay
- - connecting modules
- - printed parts
- - inicial setup
+ - connectors - foto
+ - button - foto
+ - ESP - foto
+ - fuse - foto
+ - relay - foto
+ - connecting modules - foto
+ - printed parts - foto
+ - inicial setup - foto
