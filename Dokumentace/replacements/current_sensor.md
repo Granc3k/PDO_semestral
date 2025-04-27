@@ -12,14 +12,19 @@
 
 - Vyjměte jisticí desku pro senzor.
 
-<img src="./../../sources/SCT_deska.jpg" alt="SCT_deska" width="300">
+<img src="./../../sources/ACS_deska.jpg" alt="ACS_deska" width="300">
 
 - Vyjměte senzor z řídícího modulu.
 
 - Odpojte konektor od senzoru.
     - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení senzoru zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
 
-<img src="./../../sources/SCT_con.jpg" alt="SCT_con" width="300">
+<img src="./../../sources/ACS_con.jpg" alt="ACS_con" width="300">
+
+- Odpojte konektor od vodiče od senzoru.
+    - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení senzoru zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
+
+<img src="./../../sources/ACS_unplug.jpg" alt="ACS_con" width="300">
 
 - Pro složení zpět obraťte postup.
 

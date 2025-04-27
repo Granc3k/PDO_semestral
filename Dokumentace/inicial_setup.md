@@ -7,4 +7,4 @@
 - Při změně Wi-Fi budete muset změnit SSID a heslo, jinak nebude fungovat Cloud funkcionalita.
 
 
-[Zpět na hlavní stránku](./../../README.md)
+[Zpět na hlavní stránku](./../README.md)

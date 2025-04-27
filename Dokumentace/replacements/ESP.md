@@ -11,24 +11,24 @@ TODO - fotky
 
 <img src="./../../sources/compute_unit_screws.jpg" alt="unscrew_lid" width="300">
 
-- Odpojte vrchní komunikační konektor od ESP.
+- Odpojte vrchní vodič od ESP.
     - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
 
-<img src="" alt="up_con_unplug" width="300">
+<img src="./../../sources/ESP_con_up.jpg" alt="up_con_unplug" width="300">
 
 - Opatrně vysuňte přídavnou desku s modulem. 
 
-<img src="" alt="ESP_deska" width="300">
+<img src="./../../sources/ESP_deska.jpg" alt="ESP_deska" width="300">
 
 - Odpojte USB-C konektory vedoucí do ESP a do osazné desky
     - **POZOR** Při složení dbejte na to, aby USB-C konektor vedoucí z transformátoru byl zapojen do osazné desky. A konektor vedoucí z vnější strany se zapojil do ESP.
 
-<img src="" alt="ESP_usb-c_cons" width="300">
+<img src="./../../sources/ESP_USB.jpg" alt="ESP_usb-c_cons" width="300">
 
-- Odpojte dolní komunikační konektor a napájecí konektory od ESP.
+- Odpojte dolní komunikační konektor a horní komunikační vodič.
     - **POZOR** Zapamatujte si jak byly konektory zapojeny. Při nesprávném zapojení zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
 
-<img src="" alt="ESP_down_con" width="300">
+<img src="./../../sources/ESP_con_down.jpg" alt="ESP_down_con" width="300">
 
 - Plně vysuňte přídavnou desku.
 

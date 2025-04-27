@@ -5,36 +5,30 @@
 
 - Vezměte řídící modul a přídavný modul.
 
-FOTO
-
 - Odšroubujte víko u přídavného modulu.
 
-FOTO
+<img src="./../sources/plug_unit_screws.jpg" alt="" width="300">
 
 - Odejměte víko přídavného modulu.
 
 - Připojte přídavný modul k řídícímu modulu.
     - **POZOR** Při připojování přídavného modulu dejte pozor na samotné propojovací konektory, aby nedošlo k jejich poškození. V případě poškození zařízení nebude fungovat správně, či může vzniknout **ZRANĚNÍ**
 
-FOTO
-
 - Vezměte přiložený šroub a zašroubujte jej do patřičného otvoru pro zajištění přídavného modulu ke zbytku prototypu.  
 
-FOTO
+<img src="./../sources/chaining_screw.jpg" alt="" width="300">
 
 - Přiložte krytku k druhé straně přídavného modulu.
 
-FOTO
-
 - Vezměte přiložený šroub a zašroubujte jej do patřičného otvoru pro zajištění krytky modulu.  
 
-FOTO
+<img src="./../sources/cover_screw.jpg" alt="" width="300">
 
 - Přiložte zpět víko přídavného modulu.
 
 - Zašroubujte jej.
 
-FOTO
+
 
 ## Připojení dalšího přídavného modulu do stávajícího prototypu
 - Vypněte zařízení a odpojte z něj přívod elektřiny.
@@ -45,6 +39,8 @@ FOTO
 
 - Odšroubujte jistící šroub u krytky daného modulu.
 
+<img src="./../sources/cover_screw.jpg" alt="" width="300">
+
 - Odejměte krytku.
 
 - Odšroubujte víko přídavného modulu, který chcete připojit.
@@ -52,22 +48,18 @@ FOTO
 - Připojte přídavný modul k zařízení.
     - **POZOR** Při připojování přídavného modulu dejte pozor na samotné propojovací konektory, aby nedošlo k jejich poškození. V případě poškození zařízení nebude fungovat správně, či může vzniknout **ZRANĚNÍ**
 
-FOTO
-
 - Vezměte přiložený šroub a zašroubujte jej do patřičného otvoru pro zajištění přídavného modulu ke zbytku prototypu.  
 
-FOTO
+<img src="./../sources/chaining_screw.jpg" alt="" width="300">
 
 - Přiložte krytku k druhé straně přídavného modulu.
 
-FOTO
-
 - Vezměte přiložený šroub a zašroubujte jej do patřičného otvoru pro zajištění krytky modulu.  
 
-FOTO
+<img src="./../sources/cover_screw.jpg" alt="" width="300">
 
 - Přiložte zpět víka přídavnýho modulů.
 
 - Zašroubujte je.
 
-FOTO
+[Zpět na hlavní stránku](./../README.md)

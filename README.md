@@ -1,8 +1,14 @@
 # Dokumentace Bakalářské práce
 
+
+## Potřebné nářadí:
+- 2.5 imbus
+- PH1 šroubovák
+
 ## Základní operace:
  - [inicální spuštění](./Dokumentace/inicial_setup.md)
  - [postup na přidávání přídavných modulů](./Dokumentace/connecting_modules.md)
+ 
 
  ## Výměny dílů:
  - [výměna ESP32](./Dokumentace/replacements/ESP.md)
@@ -16,13 +22,3 @@
  - [výměna konektorů silnoporudové části](./Dokumentace/replacements/connectors.md)
 
 
-
-# TODO:
- - connectors - foto
- - button - foto
- - ESP - foto
- - fuse - foto
- - relay - foto
- - connecting modules - foto
- - printed parts - foto
- - inicial setup - foto
