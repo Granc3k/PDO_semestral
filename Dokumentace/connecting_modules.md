@@ -33,7 +33,7 @@
 ## Připojení dalšího přídavného modulu do stávajícího prototypu
 - Vypněte zařízení a odpojte z něj přívod elektřiny.
 
-<img src="./../../sources/power_off.jpg" alt="power_off" width="300">
+<img src="./../sources/power_off.jpg" alt="power_off" width="300">
 
 - Odšroubujte víko daného přídavného modulu, na který se budete chtít napojit.
 
