@@ -10,14 +10,19 @@
 
 <img src="./../../sources/compute_unit_screws.jpg" alt="unscrew" width="300">
 
-- Vyjměte přídavnou desku se senzorem. 
+- Vezměte víko s displejem a odpojte konektor od displeje.
+    - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
+
+<img src="./../../sources/display_unplug.jpg" alt="display_unplug" width="300">
+
+- Vysuňte přídavnou desku se senzorem. 
 
 <img src="./../../sources/dht_unplug.jpg" alt="dht_unplug" width="300">
 
 - Odpojte konektor od senzoru.
     - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení senzoru zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
 
-- Odpojte senzor od přídavné desky
+- V případě výměny desky odpojte senzor od přídavné desky
 
 - Pro složení zpět obraťte postup.
 
