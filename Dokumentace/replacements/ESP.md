@@ -1,5 +1,4 @@
 # Výměna řídícího ESP32
-TODO - fotky
 
 - Vypněte zařízení a odpojte z něj přívod elektřiny.
 
