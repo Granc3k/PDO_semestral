@@ -12,6 +12,7 @@
 
 - Vezměte víko s displejem a odpojte konektor od displeje.
     - **POZOR** Zapamatujte si jak byl konektor zapojený. Při nesprávném zapojení zařízení nebude fungovat správně, případně může vzniknout poškození na samotném prototypu.
+    - **POZOR** Může se stát, že se Vám ESP32 odpojí od výsuvné desky. V tomto případě jej zasuňte zpátky do desky a pokračujte dalším krokem.
 
 <img src="./../../sources/display_unplug.jpg" alt="display_unplug" width="300">
 
